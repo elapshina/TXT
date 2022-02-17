@@ -1,0 +1,5 @@
+favorite movie: World War Z
+favorite series: Squid Game
+favorite food: Pasta
+favorite season: Summer
+country you would like to visit: Portugal
